@@ -1,3 +1,5 @@
+
+
 class Kid
   include Dance
   extend MetaDancing
