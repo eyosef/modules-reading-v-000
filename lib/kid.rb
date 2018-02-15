@@ -6,8 +6,8 @@ class Kid
 
   attr_accessor :name
 
-  extend MetaDancing 
-  
+  extend MetaDancing
+
   def initialize(name)
     @name = name
   end
